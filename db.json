@@ -1,0 +1,238 @@
+[
+  {
+    "company": "Menegotti",
+    "description": "Máquinas para construção civil",
+    "image": "/menegotti.png",
+    "menus": [
+      {
+        "label": "Produtos",
+        "value": "https://grupomenegotti.com/"
+      },
+      {
+        "label": "Vista explodida e manual",
+        "value": "https://sites.google.com/view/menegotti-engenharia-docs/"
+      },
+      {
+        "label": "Boletos e nota fiscal",
+        "value": "https://grupomenegotti.portaldocliente.online/"
+      },
+      {
+        "label": "Rede de assistencia técnica",
+        "value": "https://grupomenegotti.com/assistencia-tecnica/"
+      },
+      {
+        "label": "Catálogos",
+        "value": "https://drive.google.com/file/d/1WAlgBWRiDVFjiIeD5pA-jhpJtE1q5SAl/view"
+      },
+      {
+        "label": "Vídeos",
+        "value": "https://www.youtube.com/@GrupoMenegotti"
+      },
+      {
+        "label": "CTM ensina (treinamentos)",
+        "value": "https://ctmensina.themembers.com.br"
+      },
+      {
+        "label": "ART (anotação de responsibilidade técnica)",
+        "value": "https://sites.google.com/view/menegotti-engenharia-docs/linha-anota%C3%A7%C3%A3o-de-responsabilidade-t%C3%A9cnica-certificados"
+      },
+      {
+        "label": "Canais digitais (fotos e mídias)",
+        "value": "https://sites.google.com/view/menegotti-engenharia-docs/linha-canais-digitais-fotos-not%C3%ADcias-v%C3%ADdeos"
+      }
+    ]
+  },
+  {
+    "company": "Lepono",
+    "description": "Bombas d’agua",
+    "image": "/lepono.png",
+    "menus": [
+      {
+        "label": "Produtos",
+        "value": "https://leponodobrasil.com.br/motobombas/"
+      },
+      {
+        "label": "Vista explodida e manual",
+        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/3f070a5795f8434899d016c90d547227/default/?&"
+      },
+      {
+        "label": "Boletos e nota fiscal",
+        "value": "https://grupounita.portaldocliente.online/"
+      },
+      {
+        "label": "Rede de assistencia técnica",
+        "value": "https://leponodobrasil.com.br/assistencia-tecnica/"
+      },
+      {
+        "label": "Catálogos",
+        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/ff722a3a30bd2b49f9ae1e12d85e0738/default/?&"
+      },
+      {
+        "label": "Vídeos",
+        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/ff722a3a30bd2b49f9ae1e12d85e0738/default/?&"
+      },
+      {
+        "label": "Canais digitais (fotos e mídias)",
+        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/ff722a3a30bd2b49f9ae1e12d85e0738/default/?&"
+      }
+    ]
+  },
+  {
+    "company": "Jacto Clean",
+    "description": "Lavadoras de Alta Pressão",
+    "image": "/jacto-clean.png",
+    "menus": [
+      {
+        "label": "Produtos",
+        "value": "https://www.jactoclean.com.br/brasil/products"
+      },
+      {
+        "label": "Vista explodida e manual",
+        "value": "https://drive.google.com/drive/folders/1mxihBuiLtU2XGOMZYjhIA_L-09-LyzTR"
+      },
+      {
+        "label": "Assistência técnica",
+        "value": "https://www.jactoclean.com.br/brasil/resellers/locator"
+      }
+    ]
+  },
+  {
+    "company": "Ferramentas DCA",
+    "description": "Ferramentas elétricas profissionais",
+    "image": "/dca.png",
+    "menus": [
+      {
+        "label": "Produtos",
+        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
+      },
+      {
+        "label": "Vista explodida e Manual",
+        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/dd5d3be219096706bd69d8850c0d26c2/default/?&"
+      },
+      {
+        "label": "Boletos e Nota Fiscal",
+        "value": "https://grupounita.portaldocliente.online/"
+      },
+      {
+        "label": "Rede de assistencia técnica",
+        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
+      },
+      {
+        "label": "Catálogos",
+        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/dd5d3be219096706bd69d8850c0d26c2/default/?&"
+      },
+      {
+        "label": "Vídeos",
+        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/dd5d3be219096706bd69d8850c0d26c2/default/?&"
+      },
+      {
+        "label": "Canais digitais (fotos e mídias)",
+        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/dd5d3be219096706bd69d8850c0d26c2/default/?&"
+      }
+    ]
+  },
+  {
+    "company": "Máquinas de Solda MGL/AWT/Kende",
+    "description": "",
+    "image": "/mgl.png",
+    "menus": [
+      {
+        "label": "Produtos",
+        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
+      },
+      {
+        "label": "Vista explodida e Manual",
+        "value": "https://leponodobrasil.bitrix24.com.br/~3xAI7"
+      },
+      {
+        "label": "Boletos e Nota Fiscal",
+        "value": "https://grupounita.portaldocliente.online/"
+      },
+      {
+        "label": "Rede de assistencia técnica",
+        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
+      },
+      {
+        "label": "Catálogos",
+        "value": "https://leponodobrasil.bitrix24.com.br/~3xAI7"
+      },
+      {
+        "label": "Vídeos",
+        "value": "https://leponodobrasil.bitrix24.com.br/~3xAI7"
+      },
+      {
+        "label": "Canais digitais (fotos e mídias)",
+        "value": "https://leponodobrasil.bitrix24.com.br/~3xAI7"
+      }
+    ]
+  },
+  {
+    "company": "Máquinas Pneumáticas - RONGPENG",
+    "description": "",
+    "image": "/rongpeng.png",
+    "menus": [
+      {
+        "label": "Produtos",
+        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
+      },
+      {
+        "label": "Vista explodida e Manual",
+        "value": "https://leponodobrasil.bitrix24.com.br/~X7Uab"
+      },
+      {
+        "label": "Boletos e Nota Fiscal",
+        "value": "https://grupounita.portaldocliente.online/"
+      },
+      {
+        "label": "Rede de assistencia técnica",
+        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
+      },
+      {
+        "label": "Catálogos",
+        "value": "https://leponodobrasil.bitrix24.com.br/~X7Uab"
+      },
+      {
+        "label": "Vídeos",
+        "value": "https://leponodobrasil.bitrix24.com.br/~X7Uab"
+      },
+      {
+        "label": "Canais digitais (fotos e mídias)",
+        "value": "https://leponodobrasil.bitrix24.com.br/~X7Uab"
+      }
+    ]
+  },
+  {
+    "company": "Fortequip",
+    "description": "",
+    "image": "/fortequip.png",
+    "menus": [
+      {
+        "label": "Produtos",
+        "value": "https://fortequip.com.br/produtos/"
+      },
+      {
+        "label": "Catálogos",
+        "value": "PDF COM WILSON"
+      },
+      {
+        "label": "Vídeos",
+        "value": "https://www.youtube.com/watch?v=C_jEuXyytbQ"
+      },
+      {
+        "label": "ART (Anotação de responsibilidade técnica)",
+        "value": "PDF COM WILSON"
+      }
+    ]
+  },
+  {
+    "company": "Átrio Container",
+    "description": "",
+    "image": "/atrio-containers.png",
+    "menus": [
+      {
+        "label": "Produtos",
+        "value": "https://atriocontainers.com.br/produtos/"
+      }
+    ]
+  }
+]
