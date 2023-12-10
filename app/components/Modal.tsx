@@ -21,7 +21,7 @@ export function Modal({ visible, onClose, menus }: ModalProps) {
         <X size={32} onClick={onClose} className="absolute right-2 top-2 cursor-pointer" />
         <div className="flex flex-col items-center justify-center gap-4">
           {menus.map((menu) => (
-            <a href={menu.value} target="_blank" className="bg-zinc-50 p-4 text-center w-[18rem] text-lg font-medium text-blue-900">
+            <a key={menu.value} href={menu.value} target="_blank" className="bg-zinc-50 p-4 text-center w-[18rem] text-lg font-medium text-blue-900">
               {menu.label}
             </a>
           ))}
