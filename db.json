@@ -1,8 +1,9 @@
 [
   {
-    "company": "Menegotti",
+    "name": "Menegotti",
     "description": "Máquinas para construção civil",
-    "image": "/menegotti.png",
+    "heroImage": "/menegotti-hero.png",
+    "contentImage": "/menegotti-content.png",
     "menus": [
       {
         "label": "Produtos",
@@ -43,9 +44,10 @@
     ]
   },
   {
-    "company": "Lepono",
+    "name": "Lepono",
     "description": "Bombas d’agua",
-    "image": "/lepono.png",
+    "heroImage": "/lepono-hero.png",
+    "contentImage": "/lepono-content.png",
     "menus": [
       {
         "label": "Produtos",
@@ -78,9 +80,10 @@
     ]
   },
   {
-    "company": "Jacto Clean",
+    "name": "Jacto Clean",
     "description": "Lavadoras de Alta Pressão",
-    "image": "/jacto-clean.png",
+    "heroImage": "/jactoclean-hero.png",
+    "contentImage": "/jactoclean-content.jpg",
     "menus": [
       {
         "label": "Produtos",
@@ -97,9 +100,10 @@
     ]
   },
   {
-    "company": "Ferramentas DCA",
+    "name": "Ferramentas DCA",
     "description": "Ferramentas elétricas profissionais",
-    "image": "/dca.png",
+    "heroImage": "/dca-hero.png",
+    "contentImage": "/dca-content.webp",
     "menus": [
       {
         "label": "Produtos",
@@ -132,9 +136,10 @@
     ]
   },
   {
-    "company": "Máquinas de Solda MGL/AWT/Kende",
-    "description": "",
-    "image": "/mgl.png",
+    "name": "Máquinas de Solda MGL/AWT/Kende",
+    "description": "Máquinas de Solda MGL/AWT/Kende",
+    "heroImage": "/mgl-hero.png",
+    "contentImage": "/mgl-content.png",
     "menus": [
       {
         "label": "Produtos",
@@ -167,9 +172,10 @@
     ]
   },
   {
-    "company": "Máquinas Pneumáticas - RONGPENG",
-    "description": "",
-    "image": "/rongpeng.png",
+    "name": "Máquinas Pneumáticas - RONGPENG",
+    "description": "Máquinas e ferramentas pneumáticas profissonais",
+    "heroImage": "/rongpeng-hero.png",
+    "contentImage": "/rongpeng-content.png",
     "menus": [
       {
         "label": "Produtos",
@@ -202,9 +208,10 @@
     ]
   },
   {
-    "company": "Fortequip",
-    "description": "",
-    "image": "/fortequip.png",
+    "name": "Fortequip",
+    "description": "Soluções em andaimes e escoramentos",
+    "heroImage": "/fortequip-hero.png",
+    "contentImage": "/fortequip-content.png",
     "menus": [
       {
         "label": "Produtos",
@@ -225,9 +232,10 @@
     ]
   },
   {
-    "company": "Átrio Container",
-    "description": "",
-    "image": "/atrio-containers.png",
+    "name": "Átrio Container",
+    "description": "Containers desmontáveis e acoplados",
+    "heroImage": "/atrio-containers-hero.png",
+    "contentImage": "/atrio-containers-content.png",
     "menus": [
       {
         "label": "Produtos",
