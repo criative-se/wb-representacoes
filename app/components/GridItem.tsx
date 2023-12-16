@@ -26,12 +26,12 @@ export function GridItem({ company }: GridItemProps) {
 
   return (
     <Fragment>
-      <div className="h-96 flex flex-col items-center justify-between">
-        <div className="bg-white rounded-md px-6 h-full flex flex-col items-center justify-around">
+      <div className="h-96 flex flex-col items-center justify-between px-4">
+        <div className="sm:w-full bg-white rounded-md px-6 h-full flex flex-col items-center justify-around">
           <div className="w-full h-20 relative">
             <Image src={company.heroImage} alt={company.name} fill style={{ objectFit: 'contain' }} />
           </div>
-          <p className="text-blue-900 text-xl font-medium text-center w-[18.5rem]">{company.description}</p>
+          <p className="sm:w-[18rem] text-blue-900 text-xl font-medium text-center w-[18.5rem]">{company.description}</p>
           <div className="w-full h-20 relative">
             <Image src={company.contentImage} alt={company.name} fill style={{ objectFit: 'contain' }} />
           </div>

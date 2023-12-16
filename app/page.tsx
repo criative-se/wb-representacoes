@@ -11,13 +11,16 @@ export default function Home() {
     <Fragment>
       <Header />
       <main>
-        <section className="h-screen sm:py-0 ">
-          <div className="w-full md:w-screen lg:w-full my-auto">
-            <div className="flex justify-around items-center h-[720px] bg-blue-900 sm:h-[640px] sm:justify-start sm:px-4 overflow-hidden">
-              <div className="space-y-10 md:px-4">
-                <h1 className="sm:text-3xl md:text-4xl xl:text-7xl font-semibold text-zinc-50">Wilson Bittencourt</h1>
-                <h2 className="sm:text-3xl md:text-3xl xl:text-5xl font-semibold text-zinc-50">Representante Comercial</h2>
-                <h3 className="sm:text-3xl md:text-3xl xl:text-5xl font-semibold text-zinc-50">Na região sul de Santa Catarina</h3>
+        <section className="h-screen">
+          <div className="sm:h-[640px] sm:justify-start flex justify-around items-center h-[720px] bg-blue-900 overflow-hidden px-4">
+            <div className="sm:w-full sm:gap-0 sm:justify-evenly sm:h-[calc(100%-56px)] w-[45rem] flex flex-col gap-8">
+              <h1 className="sm:text-3xl md:text-4xl xl:text-7xl font-semibold text-zinc-50">Wilson Bittencourt</h1>
+              <h2 className="sm:text-3xl md:text-3xl xl:text-6xl font-semibold text-zinc-50">Representante Comercial na região sul de Santa Catarina</h2>
+              <div className="sm:flex-col flex gap-2 items-center">
+                <div className="block">
+                  <p className="sm:text-5xl sm:text-center text-7xl font-extrabold text-zinc-50">+12</p>
+                  <p className="sm:text-base text-xl font-extrabold text-zinc-50">Anos de experiência</p>
+                </div>
                 <div className="flex gap-2">
                   <a href="https://www.instagram.com/wilsonbitt/" target="_blank">
                     <FacebookLogo size={64} color="rgb(250,250,250)" alt="Facebook de Wilson Bittencourt" />
@@ -30,52 +33,46 @@ export default function Home() {
                   </a>
                 </div>
               </div>
-              <div className="relative w-[60rem] h-full sm:hidden mt-4">
-                <Image src='/hero.png' alt='Wilson Bittencourt' fill style={{ objectFit: 'cover', objectPosition: 'left' }} />
-              </div>
             </div>
-            <div className="container mx-auto mt-10">
-              <div className="flex justify-evenly  sm:flex-col sm:space-y-8 sm:items-start sm:space-x-0 sm:px-4">
-                <div className="flex flex-col items-center sm:items-start">
-                  <p className="text-7xl font-extrabold sm:text-5xl text-[#002198]">+5</p>
-                  <p className="text-xl sm:text-base font-extrabold text-[#002198]">Empresas parceiras</p>
-                </div>
-                <div className="flex flex-col items-center sm:items-start">
-                  <p className="text-7xl sm:text-5xl font-extrabold text-[#002198]">+12</p>
-                  <p className="text-xl sm:text-base font-extrabold text-[#002198]">Anos de experiência</p>
-                </div>
-              </div>
+            <div className="sm:hidden md:hidden lg:block relative w-[60rem] h-full mt-4">
+              <Image src='/hero.png' alt='Wilson Bittencourt' fill style={{ objectFit: 'cover', objectPosition: 'left' }} />
+            </div>
+          </div>
+          <div className="container mx-auto mt-20">
+            <div className="flex flex-col items-center justify-center gap-2 px-4">
+              <h1 className="sm:text-4xl w-full text-center text-6xl font-medium text-blue-900">Quem somos</h1>
+              <hr className="h-2 w-40 bg-blue-900" />
             </div>
           </div>
         </section>
 
-        <section className="container mx-auto pt-10">
-          <div className="flex gap-10 flex-col justify-center items-center px-4">
-            <div className="w-full justify-evenly flex sm:flex-col sm:gap-4 md:gap-4">
-              <div className="relative h-60 w-96 sm:w-full">
-                <Image src='/hero2.png' alt='Wilson Bittencourt' fill className="border-solid border-2 border-blue-900 rounded-lg rounded-br-[64px] object-contain sm:object-cover" />
+        <section className="container mx-auto">
+          <div className="md:mt-20 flex gap-10 flex-col justify-center items-center px-4">
+            <div className="sm:flex-col-reverse sm:gap-4 md:gap-4 w-full justify-evenly flex">
+              <div className="sm:w-full relative h-60 w-96">
+                <Image src='/hero2.png' alt='Wilson Bittencourt' fill className="sm:object-cover border-solid border-2 border-blue-900 rounded-lg rounded-br-[64px] object-contain" />
               </div>
-              <div className="w-96 flex flex-col gap-4 sm:w-full">
+              <div className="sm:w-full w-96 flex flex-col gap-4">
                 <h6 className="text-2xl text-blue-900 font-medium">Somos a WB Representações</h6>
                 <p className="font-medium text-blue-900 text-xl">trabalhamos com produtos de qualidade! Vendas técnicas de máquinas e equipamentos para o setor de construção civil.</p>
               </div>
             </div>
 
-            <div className="w-full justify-evenly flex sm:flex-col sm:gap-4 md:gap-4">
-              <div className="w-96 flex flex-col gap-4 sm:w-full">
+            <div className="sm:flex-col sm:gap-4 md:gap-4 w-full justify-evenly flex">
+              <div className="sm:w-full w-96 flex flex-col gap-4">
                 <h6 className="text-2xl text-blue-900 font-medium">Representação e consultoria comercial</h6>
                 <p className="font-medium text-blue-900 text-xl">Atendemos: lojas de Materiais de construção, construtoras, artefatos de cimento e locadoras de máquinas e equipamentos.</p>
               </div>
-              <div className="relative h-60 w-96 sm:w-full">
-                <Image src='/gallery-2.png' alt='Wilson Bittencourt' fill className="border-solid border-2 border-blue-900 rounded-lg rounded-br-[64px] object-contain sm:object-cover" />
+              <div className="sm:w-full relative h-60 w-96">
+                <Image src='/gallery-2.png' alt='Wilson Bittencourt' fill className="sm:object-cover border-solid border-2 border-blue-900 rounded-lg rounded-br-[64px] object-contain" />
               </div>
             </div>
           </div>
         </section>
 
-        <section id='portfolio' className="container mx-auto pt-10 px-4 pb-12">
-          <h1 className="text-center w-full font-medium text-6xl text-blue-900 my-10">Portfólio</h1>
-          <div className="grid grid-cols-3 sm:grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+        <section id='portfolio' className="container mx-auto py-10">
+          <h1 className="sm:text-4xl text-center w-full font-medium text-6xl text-blue-900 pb-10">Portfólio</h1>
+          <div className="sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid grid-cols-3 gap-4">
             {companies.map((company) => (
               <GridItem key={company.name} company={company} />
             ))}
