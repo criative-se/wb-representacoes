@@ -14,9 +14,10 @@ export default function Home() {
         <section className="h-screen">
           <div className="sm:h-[640px] sm:justify-start flex justify-around items-center h-[720px] bg-blue-900 overflow-hidden px-4">
             <div className="sm:w-full sm:gap-0 sm:justify-evenly sm:h-[calc(100%-56px)] w-[45rem] flex flex-col gap-8">
-              <h1 className="sm:text-3xl md:text-4xl xl:text-7xl font-semibold text-zinc-50">Wilson Bittencourt</h1>
-              <h2 className="sm:text-3xl md:text-3xl xl:text-6xl font-semibold text-zinc-50">Representante Comercial na região sul de Santa Catarina</h2>
-              <div className="sm:flex-col flex gap-2 items-center">
+              <Image src='/logo.png' alt="Logotipo WB Representações" width={320} height={320} />
+              <h1 className="sm:text-3xl md:text-4xl xl:text-6xl font-semibold text-zinc-50">Wilson Bittencourt</h1>
+              <h2 className="sm:text-3xl md:text-3xl xl:text-5xl font-semibold text-zinc-50">Representante Comercial na região sul de Santa Catarina</h2>
+              <div className="sm:flex-col sm:gap-2 flex gap-60 items-center ">
                 <div className="block">
                   <p className="sm:text-5xl sm:text-center text-7xl font-extrabold text-zinc-50">+12</p>
                   <p className="sm:text-base text-xl font-extrabold text-zinc-50">Anos de experiência</p>
