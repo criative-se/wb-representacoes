@@ -14,15 +14,15 @@ export default function Home() {
         <section className="h-screen">
           <div className="sm:h-[640px] sm:justify-start flex justify-around items-center h-[720px] bg-blue-900 overflow-hidden px-4">
             <div className="sm:w-full sm:gap-0 sm:justify-evenly sm:h-[calc(100%-56px)] w-[45rem] flex flex-col gap-4">
-              <Image src='/logo.png' alt="Logotipo WB Representações" width={320} height={320} />
+              <Image src='/logo.png' alt="Logotipo WB Representações" width={320} height={320} className="sm:mx-auto"/>
               <h1 className="sm:text-2xl md:text-4xl xl:text-5xl font-semibold text-zinc-50">Wilson Bittencourt</h1>
               <h2 className="sm:text-2xl md:text-3xl xl:text-4xl font-semibold text-zinc-50">Representante Comercial na região sul de Santa Catarina. Especializado em máquinas para construção civil</h2>
               <div className="sm:flex-col sm:gap-2 flex gap-60 items-center ">
                 <div className="flex gap-2">
-                  <a href="https://www.instagram.com/wilsonbitt/" target="_blank">
+                  <a href="https://www.facebook.com/wilsonbitt" target="_blank">
                     <FacebookLogo size={64} color="rgb(250,250,250)" alt="Facebook de Wilson Bittencourt" />
                   </a>
-                  <a href="https://www.facebook.com/wilsonbitt" target="_blank">
+                  <a href="https://www.instagram.com/wilsonbitt/" target="_blank">
                     <InstagramLogo size={64} color="rgb(250,250,250)" alt='Instagram de Wilson Bittencourt' />
                   </a>
                   <a href="whatsapp://send?phone=5548999093271&text=Olá Wilson, gostaria de fazer um orçamento" target="_blank">
@@ -33,7 +33,7 @@ export default function Home() {
             </div>
             <div className="sm:hidden md:hidden lg:block relative w-[60rem] h-full mt-4">
               <Image src='/hero.png' alt='Wilson Bittencourt' fill style={{ objectFit: 'cover', objectPosition: 'left' }} />
-              <Image src='/selo.png' alt="+12 anos de experiência" width={320} height={320} style={{ position: 'absolute', right:0, top:32 }} />
+              <Image src='/selo.png' alt="+12 anos de experiência" width={320} height={320} style={{ position: 'absolute', right: 0, top: 32 }} />
             </div>
           </div>
           <div className="container mx-auto mt-20">
