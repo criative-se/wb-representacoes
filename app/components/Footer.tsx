@@ -12,9 +12,13 @@ export default function Footer() {
               <Image src='/test.png' alt='logo' fill style={{ objectFit: 'cover' }} />
             </div>
             <p className="max-w-[17rem] text-zinc-50 font-medium">Desenvolvendo soluções digitais | Marketing Digital</p>
+            <p className="max-w-[17rem] text-zinc-50 font-medium mt-5">
+              Site produzido por:
+              <a target="_blank" href="https://www.instagram.com/criativeseagencia/"> Criative-se</a>
+            </p>
             <div className="flex items-center gap-2 mt-5">
               <Phone size={24} color="rgb(250,250,250)" />
-              <a href="whatsapp://send?phone=5548999093271&text=Olá Wilson, gostaria de fazer um orçamento" target="_blank" className="text-zinc-50 hover:text-blue-600 transition-colors duration-300">
+              <a href="whatsapp://send?phone=5548991965786&text=Olá, gostaria de fazer um orçamento" target="_blank" className="text-zinc-50 hover:text-blue-600 transition-colors duration-300">
                 +55 (48) 99196-5786
               </a>
             </div>
@@ -29,12 +33,12 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-col gap-3">
-            <p className="text-zinc-50 font-medium">Canais de atendimento</p>
+            <p className="text-zinc-50 font-medium">Canais de atendimento | Wilson Bittencourt</p>
             <p className="text-zinc-50 font-medium">(Informações, dúvidas)</p>
             <div className="flex items-center gap-2">
               <Phone size={24} color="rgb(250,250,250)" />
               <a href="whatsapp://send?phone=5548999093271&text=Olá Wilson, gostaria de fazer um orçamento" target="_blank" className="text-zinc-50 hover:text-blue-600 transition-colors duration-300">
-                +55 (48) 998038-4747
+                +55 (48) 99909-3271
               </a>
             </div>
           </div>
