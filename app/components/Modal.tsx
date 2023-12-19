@@ -9,9 +9,10 @@ interface ModalProps {
     label: string
     value: string
   }[]
+  company: string
 }
 
-export function Modal({ visible, onClose, menus }: ModalProps) {
+export function Modal({ visible, onClose, menus, company }: ModalProps) {
 
   if (!visible) return null
 
@@ -26,6 +27,11 @@ export function Modal({ visible, onClose, menus }: ModalProps) {
               {menu.label}
             </a>
           ))}
+          {company === 'Fortequip' && (
+            <a href="whatsapp://send?phone=5548999093271&text=Olá Wilson" className="bg-zinc-50 p-4 text-center w-[18rem] text-lg font-medium rounded-lg text-blue-900 hover:bg-blue-900 hover:text-zinc-50">
+              Catálogos e ART (Anotação de responsibilidade técnica) somente via Whatsapp com Wilson Bittencourt <br />(48) 9 9909-3271
+            </a>
+          )}
         </div>
       </div>
     </div>

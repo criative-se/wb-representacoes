@@ -45,6 +45,7 @@ export function GridItem({ company }: GridItemProps) {
         onClose={handleToggleShowModal}
         visible={showModal}
         menus={company.menus}
+        company={company.name}
       />
     </Fragment>
   )

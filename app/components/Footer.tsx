@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid sm:grid-cols-1 sm:gap-12 grid-cols-[3fr_2fr_1fr]">
           <div className="flex flex-col">
             <div className="sm:w-full sm:ml-0 w-96 h-20 relative mb-5 -ml-4">
-              <Image src='/test.png' alt='logo' fill style={{ objectFit: 'cover' }} />
+              <Image src='/criative-se.png' alt='Logotipo Criative-se' fill style={{ objectFit: 'cover' }} />
             </div>
             <p className="max-w-[17rem] text-zinc-50 font-medium">Desenvolvendo soluções digitais | Marketing Digital</p>
             <p className="max-w-[17rem] text-zinc-50 font-medium mt-5">

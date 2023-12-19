@@ -83,7 +83,7 @@
     "name": "Jacto Clean",
     "description": "Lavadoras de Alta Pressão",
     "heroImage": "/jactoclean-hero.png",
-    "contentImage": "/jactoclean-content.jpg",
+    "contentImage": "/jactoclean-content.png",
     "menus": [
       {
         "label": "Produtos",
@@ -103,11 +103,11 @@
     "name": "Ferramentas DCA",
     "description": "Ferramentas elétricas profissionais",
     "heroImage": "/dca-hero.png",
-    "contentImage": "/dca-content.webp",
+    "contentImage": "/dca-content.png",
     "menus": [
       {
         "label": "Produtos",
-        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
+        "value": "https://www.dcaferramentas.com.br/"
       },
       {
         "label": "Vista explodida e Manual",
@@ -123,7 +123,7 @@
       },
       {
         "label": "Catálogos",
-        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/dd5d3be219096706bd69d8850c0d26c2/default/?&"
+        "value": "https://www.dcaferramentas.com.br/_files/ugd/cba909_da5ea5fc73034c00832ac3a4c9fc2b66.pdf"
       },
       {
         "label": "Vídeos",
@@ -143,7 +143,7 @@
     "menus": [
       {
         "label": "Produtos",
-        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
+        "value": "https://mglbrasil.com.br/linha-de-solda/"
       },
       {
         "label": "Vista explodida e Manual",
@@ -179,7 +179,7 @@
     "menus": [
       {
         "label": "Produtos",
-        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
+        "value": "https://mglbrasil.com.br/rongpeng/"
       },
       {
         "label": "Vista explodida e Manual",
@@ -218,16 +218,8 @@
         "value": "https://fortequip.com.br/produtos/"
       },
       {
-        "label": "Catálogos",
-        "value": "PDF COM WILSON"
-      },
-      {
         "label": "Vídeos",
         "value": "https://www.youtube.com/watch?v=C_jEuXyytbQ"
-      },
-      {
-        "label": "ART (Anotação de responsibilidade técnica)",
-        "value": "PDF COM WILSON"
       }
     ]
   },
