@@ -52,7 +52,7 @@ export default function Home() {
               </div>
               <div className="sm:w-full w-96 flex flex-col gap-4">
                 <h6 className="text-2xl text-blue-900 font-medium">Somos a WB Representações</h6>
-                <p className="font-medium text-blue-900 text-xl">trabalhamos com produtos de qualidade! Vendas técnicas de máquinas e equipamentos para o setor de construção civil.</p>
+                <p className="font-medium text-blue-900 text-xl">Trabalhamos com produtos de qualidade! Vendas técnicas de máquinas e equipamentos para o setor de construção civil.</p>
               </div>
             </div>
 
