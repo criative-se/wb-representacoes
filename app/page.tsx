@@ -11,7 +11,7 @@ export default function Home() {
     <Fragment>
       <Header />
       <main>
-        <section className="h-screen">
+        <section className="min-h-screen">
           <div className="sm:h-[40rem] sm:justify-start flex justify-around items-center h-[45rem] bg-blue-900 overflow-hidden px-4">
             <div className="sm:w-full sm:gap-0 sm:justify-evenly sm:h-[calc(100%-3.5rem)] w-[45rem] flex flex-col gap-4">
               <Image src='/logo.png' alt="Logotipo WB Representações" width={320} height={320} className="sm:mx-auto"/>
