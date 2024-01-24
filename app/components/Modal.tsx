@@ -18,7 +18,7 @@ export function Modal({ visible, onClose, menus, company }: ModalProps) {
 
   return (
     <div className="fixed inset-0 bg-black bg-opacity-30 flex justify-center items-center z-50">
-      <div className="sm:w-[18rem] bg-zinc-50 py-4 px-2 rounded w-96 relative">
+      <div className="max-h-[90vh] overflow-auto sm:w-[18rem] bg-zinc-50 py-4 px-2 rounded w-96 relative">
         <X size={32} onClick={onClose} className="absolute right-2 top-2 cursor-pointer" />
         <div className="flex flex-col items-center justify-center gap-4">
           {menus.map((menu) => (
