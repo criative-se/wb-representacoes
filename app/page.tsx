@@ -31,7 +31,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="sm:hidden md:hidden lg:block relative w-[60rem] h-[39rem] mt-24">
+            <div className="sm:hidden md:hidden lg:block relative w-[60rem] h-[38rem] mt-28">
               <Image src='/hero.png' alt='Wilson Bittencourt' fill style={{ objectFit: 'cover', objectPosition: 'left' }} />
               <Image src='/selo.png' alt="+12 anos de experiência" width={320} height={320} style={{ position: 'absolute', right: 0, top: 32 }} />
             </div>
