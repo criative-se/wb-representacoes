@@ -12,8 +12,8 @@ export default function Home() {
       <Header />
       <main>
         <section className="h-screen">
-          <div className="sm:h-[640px] sm:justify-start flex justify-around items-center h-[720px] bg-blue-900 overflow-hidden px-4">
-            <div className="sm:w-full sm:gap-0 sm:justify-evenly sm:h-[calc(100%-56px)] w-[45rem] flex flex-col gap-4">
+          <div className="sm:h-[40rem] sm:justify-start flex justify-around items-center h-[45rem] bg-blue-900 overflow-hidden px-4">
+            <div className="sm:w-full sm:gap-0 sm:justify-evenly sm:h-[calc(100%-3.5rem)] w-[45rem] flex flex-col gap-4">
               <Image src='/logo.png' alt="Logotipo WB Representações" width={320} height={320} className="sm:mx-auto"/>
               <h1 className="sm:text-2xl md:text-4xl xl:text-5xl font-semibold text-zinc-50">Wilson Bittencourt</h1>
               <h2 className="sm:text-2xl md:text-3xl xl:text-4xl font-semibold text-zinc-50">Representante Comercial na região sul de Santa Catarina. Especializado em máquinas para construção civil</h2>
@@ -48,7 +48,7 @@ export default function Home() {
           <div className="md:mt-20 flex gap-10 flex-col justify-center items-center px-4">
             <div className="sm:flex-col-reverse sm:gap-4 md:gap-4 w-full justify-evenly flex">
               <div className="sm:w-full relative h-60 w-96">
-                <Image src='/hero2.png' alt='Wilson Bittencourt' fill className="sm:object-cover border-solid border-2 border-blue-900 rounded-lg rounded-br-[64px] object-contain" />
+                <Image src='/hero2.png' alt='Wilson Bittencourt' fill className="sm:object-cover border-solid border-2 border-blue-900 rounded-lg rounded-br-[4rem] object-contain" />
               </div>
               <div className="sm:w-full w-96 flex flex-col gap-4">
                 <h6 className="text-2xl text-blue-900 font-medium">Somos a WB Representações</h6>
@@ -62,7 +62,7 @@ export default function Home() {
                 <p className="font-medium text-blue-900 text-xl">Atendemos: lojas de Materiais de construção, construtoras, artefatos de cimento e locadoras de máquinas e equipamentos.</p>
               </div>
               <div className="sm:w-full relative h-60 w-96">
-                <Image src='/gallery-2.png' alt='Wilson Bittencourt' fill className="sm:object-cover border-solid border-2 border-blue-900 rounded-lg rounded-br-[64px] object-contain" />
+                <Image src='/gallery-2.png' alt='Wilson Bittencourt' fill className="sm:object-cover border-solid border-2 border-blue-900 rounded-lg rounded-br-[4rem] object-contain" />
               </div>
             </div>
           </div>
