@@ -84,62 +84,6 @@
     ]
   },
   {
-    "name": "Jacto Clean",
-    "description": "Lavadoras de Alta Pressão",
-    "heroImage": "/jactoclean-hero.png",
-    "contentImage": "/jactoclean-content.png",
-    "menus": [
-      {
-        "label": "Produtos",
-        "value": "https://www.jactoclean.com.br/brasil/products"
-      },
-      {
-        "label": "Vista explodida e manual",
-        "value": "https://drive.google.com/drive/folders/1mxihBuiLtU2XGOMZYjhIA_L-09-LyzTR"
-      },
-      {
-        "label": "Assistência técnica",
-        "value": "https://www.jactoclean.com.br/brasil/resellers/locator"
-      }
-    ]
-  },
-  {
-    "name": "Ferramentas DCA",
-    "description": "Ferramentas elétricas profissionais",
-    "heroImage": "/dca-hero.png",
-    "contentImage": "/dca-content.png",
-    "menus": [
-      {
-        "label": "Produtos",
-        "value": "https://www.dcaferramentas.com.br/"
-      },
-      {
-        "label": "Vista explodida e Manual",
-        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/dd5d3be219096706bd69d8850c0d26c2/default/?&"
-      },
-      {
-        "label": "Boletos e Nota Fiscal",
-        "value": "https://grupounita.portaldocliente.online/"
-      },
-      {
-        "label": "Rede de assistencia técnica",
-        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
-      },
-      {
-        "label": "Catálogos",
-        "value": "https://www.dcaferramentas.com.br/_files/ugd/cba909_da5ea5fc73034c00832ac3a4c9fc2b66.pdf"
-      },
-      {
-        "label": "Vídeos",
-        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/dd5d3be219096706bd69d8850c0d26c2/default/?&"
-      },
-      {
-        "label": "Canais digitais (fotos e mídias)",
-        "value": "https://bitrix24public.com/leponodobrasil.bitrix24.com.br/docs/pub/dd5d3be219096706bd69d8850c0d26c2/default/?&"
-      }
-    ]
-  },
-  {
     "name": "Máquinas de Solda MGL/AWT/Kende",
     "description": "Máquinas de Solda MGL/AWT/Kende",
     "heroImage": "/mgl-hero.png",
@@ -176,42 +120,6 @@
     ]
   },
   {
-    "name": "Máquinas Pneumáticas - RONGPENG",
-    "description": "Máquinas e ferramentas pneumáticas profissonais",
-    "heroImage": "/rongpeng-hero.png",
-    "contentImage": "/rongpeng-content.png",
-    "menus": [
-      {
-        "label": "Produtos",
-        "value": "https://mglbrasil.com.br/rongpeng/"
-      },
-      {
-        "label": "Vista explodida e Manual",
-        "value": "https://leponodobrasil.bitrix24.com.br/~X7Uab"
-      },
-      {
-        "label": "Boletos e Nota Fiscal",
-        "value": "https://grupounita.portaldocliente.online/"
-      },
-      {
-        "label": "Rede de assistencia técnica",
-        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
-      },
-      {
-        "label": "Catálogos",
-        "value": "https://leponodobrasil.bitrix24.com.br/~X7Uab"
-      },
-      {
-        "label": "Vídeos",
-        "value": "https://leponodobrasil.bitrix24.com.br/~X7Uab"
-      },
-      {
-        "label": "Canais digitais (fotos e mídias)",
-        "value": "https://leponodobrasil.bitrix24.com.br/~X7Uab"
-      }
-    ]
-  },
-  {
     "name": "Fortequip",
     "description": "Soluções em andaimes e escoramentos",
     "heroImage": "/fortequip-hero.png",
@@ -224,18 +132,6 @@
       {
         "label": "Vídeos",
         "value": "https://www.youtube.com/watch?v=C_jEuXyytbQ"
-      }
-    ]
-  },
-  {
-    "name": "Átrio Container",
-    "description": "Containers desmontáveis e acoplados",
-    "heroImage": "/atrio-containers-hero.png",
-    "contentImage": "/atrio-containers-content.png",
-    "menus": [
-      {
-        "label": "Produtos",
-        "value": "https://atriocontainers.com.br/produtos/"
       }
     ]
   }

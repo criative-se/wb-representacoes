@@ -70,7 +70,7 @@ export default function Home() {
 
         <section id='portfolio' className="container mx-auto py-10">
           <h1 className="sm:text-4xl text-center w-full font-medium text-6xl text-blue-900 pb-10">Portfólio</h1>
-          <div className="sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid grid-cols-3 gap-4">
+          <div className="sm:grid-cols-1 md:grid-cols-2 grid grid-cols-2 gap-4">
             {companies.map((company) => (
               <GridItem key={company.name} company={company} />
             ))}
