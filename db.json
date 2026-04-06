@@ -84,42 +84,6 @@
     ]
   },
   {
-    "name": "Máquinas de Solda MGL/AWT/Kende",
-    "description": "Máquinas de Solda MGL/AWT/Kende",
-    "heroImage": "/mgl-hero.png",
-    "contentImage": "/mgl-content.png",
-    "menus": [
-      {
-        "label": "Produtos",
-        "value": "https://mglbrasil.com.br/linha-de-solda/"
-      },
-      {
-        "label": "Vista explodida e Manual",
-        "value": "https://leponodobrasil.bitrix24.com.br/~3xAI7"
-      },
-      {
-        "label": "Boletos e Nota Fiscal",
-        "value": "https://grupounita.portaldocliente.online/"
-      },
-      {
-        "label": "Rede de assistencia técnica",
-        "value": "https://mglbrasil.com.br/assistencia-tecnica/"
-      },
-      {
-        "label": "Catálogos",
-        "value": "https://leponodobrasil.bitrix24.com.br/~3xAI7"
-      },
-      {
-        "label": "Vídeos",
-        "value": "https://leponodobrasil.bitrix24.com.br/~3xAI7"
-      },
-      {
-        "label": "Canais digitais (fotos e mídias)",
-        "value": "https://leponodobrasil.bitrix24.com.br/~3xAI7"
-      }
-    ]
-  },
-  {
     "name": "Fortequip",
     "description": "Soluções em andaimes e escoramentos",
     "heroImage": "/fortequip-hero.png",
